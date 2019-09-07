@@ -23,7 +23,7 @@ BibTex:
 
 Contrary to recent work that considers homogeneous transfer between flow domains (optical flow to motion vectors), we propose to embed an NVS emulator into a multi-modal transfer learning framework that carries out heterogeneous transfer from optical flow to NVS. The potential of our framework is showcased by the fact that, for the first time, our NVS-based results achieve comparable action recognition performance to motion-vector or opticalflow based methods.
 
-<img height="360" width='800' src="https://github.com/PIX2NVS/NVS_ActionRecognition/blob/master/images/Framework.JPG">
+<img height="560" width='800' src="https://github.com/PIX2NVS/NVS_ActionRecognition/blob/master/images/Framework.JPG">
 
 ## Code Implementation
 ### Requirements:
