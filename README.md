@@ -32,8 +32,11 @@ Contrary to recent work that considers homogeneous transfer between flow domains
      
     
 ### Running examples:
-    cd code
-    python main.py
+    1. cd code
+    2. runing 'Write2TFRecords.py' to generate data to *.tfrecords
+    3. change " mode = 'brox' " in 'train_domain.py' to train the teacher model
+    4. change " mode = 'dvs' " in 'train_domain.py' to train the student model
+    4. change " mode = 'joint' " in 'train_domain.py' to train the teacher-student model
 
 
 
